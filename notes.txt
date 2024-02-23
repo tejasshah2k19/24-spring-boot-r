@@ -1,0 +1,51 @@
+REST API 
+
+
+new data  => POST 
+read data => GET 
+modify    => PUT 
+remove 	  => DELETE 
+
+
+REST api -> input  { json } 
+		 -> output { json } 
+
+SOAP Api -> XML 
+
+
+file -> new -> spring start ->
+		web 
+		devtools 
+		
+		
+		
+controller -> 
+		@Controller 
+		
+rest controller ->
+		@RestController 
+		input  : json 
+		output : json 
+		
+configuration -> application.properties 
+		
+		
+----------
+db insert 
+
+database connection 
+1) mysql -> maven 
+
+2) connection -> 
+
+
+
+
+
+
+
+
+			
+		
+		
+		
